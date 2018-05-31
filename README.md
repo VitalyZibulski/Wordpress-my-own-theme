@@ -1,1 +1,1 @@
-"# Wordpress-my-own-theme" 
+Wordpress-my-own-theme
